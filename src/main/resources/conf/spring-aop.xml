@@ -19,10 +19,10 @@
 		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.2.xsd
 		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd
 		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.2.xsd">
-		<!-- 配置AOP注解扫描
+		<!-- 配置AOP注解扫描132123
 		<context:component-scan 
 		base-package="cn.tedu.cloud_note.aspect" /> -->
-		<!-- 开启注解标记
+		<!-- 开启注解标记456789
 		<aop:aspectj-autoproxy /> -->
 </beans>
 

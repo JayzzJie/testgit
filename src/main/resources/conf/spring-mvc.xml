@@ -19,9 +19,9 @@
 		http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-3.2.xsd
 		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.2.xsd
 		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.2.xsd">
-	<!-- 开启组件扫描 -->
+	<!-- 开启组件扫描 123456-->
 	<context:component-scan 
 				base-package="cn.chuangdian" />
-	<!-- 启用注解驱动 -->
+	<!-- 启用注解驱动 789012-->
 	<mvc:annotation-driven />
 </beans>
